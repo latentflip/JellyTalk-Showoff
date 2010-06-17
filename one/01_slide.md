@@ -26,6 +26,9 @@
 * Unit-testable JS, with Jasmine (apparently)
 
 
+!SLIDE center
+#A Quick Example#
+
 !SLIDE center full-page
 ![](example_1.png)
 
